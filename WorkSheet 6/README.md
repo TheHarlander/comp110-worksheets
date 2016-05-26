@@ -9,3 +9,7 @@
 ![alt tag](https://github.com/TheHarlander/comp110-worksheets/blob/master/WorkSheet%206/ClassDiagram.png)
 ###Use case Diagram
 ![alt tag](https://github.com/TheHarlander/comp110-worksheets/blob/master/WorkSheet%206/UseCaseDiagram.png)
+###State Diagram
+![alt tag](https://github.com/TheHarlander/comp110-worksheets/blob/master/WorkSheet%206/State.png)
+###Sequence Diagram
+![alt tag](https://github.com/TheHarlander/comp110-worksheets/blob/master/WorkSheet%206/Sequence.png)
